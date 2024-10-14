@@ -1,5 +1,5 @@
 
-package fitnessmanagermentt;
+package controller;
 
 public class FitnessManagermentt {
 
